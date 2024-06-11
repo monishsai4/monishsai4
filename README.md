@@ -11,4 +11,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=monishsai4&label=Profile+Views&color=green)
 ---
 
-![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg)
+### 🤵‍♂️: Intro
+
+I am a Graduate in Mechatronics Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Chitkara University, Chandigarh. I am currently doing my co-op at Universal Music Group as a Data Engineer. I use Python, SQL(Big Query), Google Cloud Platform, Airflow, Kubernetes, Docker, Confluence and Jira on a day-to-day basis at work. 
