@@ -13,4 +13,4 @@
 
 ### 🤵‍♂️: Intro
 
-I am a Graduate in Mechatronics Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Chitkara University, Chandigarh. I am currently doing my co-op at Universal Music Group as a Data Engineer. I use Python, SQL(Big Query), Google Cloud Platform, Airflow, Kubernetes, Docker, Confluence and Jira on a day-to-day basis at work. 
+I am a Graduate in Mechatronics Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Chitkara University, Chandigarh. 
