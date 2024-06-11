@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Monish Sai</h1>
 <h3 align="center">A passionate (mern)-full stack web developer from India</h3>
-![](https://komarev.com/ghpvc/?username=monishsai4&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=monishsai4&color=green)
 
 
 - 📫 How to reach me **monish030404@gmail.com**
